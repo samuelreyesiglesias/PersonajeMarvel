@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PersonajeMarvel.View.AgregarOtroPersonaje">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Personaje Marvel" />
+
+            <Entry Placeholder="Nombre Civil" Text=""  x:Name="EntryNombreReal" />
+            <Entry Placeholder="Nombre personaje" Text=""  x:Name="EntryNombrePersonaje"  />
+            <Entry Placeholder="Edad"   x:Name="EntryEdad" Text="" />
+            <Label Text="Es Amigo"/>
+            <Switch x:Name="EsAmigo"></Switch>
+            <Button x:Name="BtnGuardar" Text="Guardar" Clicked="BtnGuardar_Clicked"></Button>
+            <Button x:Name="BtnMostrar" Text="Mostrar" Clicked="BtnMostrar_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

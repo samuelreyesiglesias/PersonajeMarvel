@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PersonajeMarvel.View.PersonajeView">
+    <ContentPage.Content>
+        <StackLayout>
+            <!-- Place new controls here -->
+            <Label Text="Personaje Marvel" />
+
+            <Entry Placeholder="Nombre Civil" Text="Benedict Cumberbatch"  x:Name="EntryNombreReal" IsEnabled="False"/>
+            <Entry Placeholder="Nombre personaje" Text="Doctor Strange"  x:Name="EntryNombrePersonaje" IsEnabled="False" />
+            <Entry Placeholder="Edad"   x:Name="EntryEdad" Text="50" IsEnabled="False"/>
+            <Button x:Name="BtnGuardar" Text="Continuar" Clicked="BtnGuardar_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

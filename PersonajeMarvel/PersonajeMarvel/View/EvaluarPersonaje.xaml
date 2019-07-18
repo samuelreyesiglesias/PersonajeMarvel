@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PersonajeMarvel.View.EvaluarPersonaje">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Benedict Cumberbatch" x:Name="LabelNombreReal" IsEnabled="False" />
+            <Label Text="Doctor Strange" x:Name="LabelNombrePersonaje" IsEnabled="False"/>
+            <Label Text="50" x:Name="LabelEdad" />
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Tiene peliculas?"></Label><Switch x:Name="Swith1"> </Switch>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Personaje repetido?"></Label><Switch x:Name="Swith2"></Switch>
+            </StackLayout>
+            
+            <Button Text="Validar" x:Name="BtnValidar" Clicked="BtnValidar_Clicked"/>
+            <Button Text="Agregar Otro Personaje" x:Name="BtnNuevoPersonaje" Clicked="BtnNuevoPersonaje_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

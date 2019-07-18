@@ -1,0 +1,14 @@
+C:\Users\CDS2UNIVO18\source\repos\PersonajeMarvel\PersonajeMarvel\PersonajeMarvel\bin\Debug\netstandard2.0\PersonajeMarvel.deps.json
+C:\Users\CDS2UNIVO18\source\repos\PersonajeMarvel\PersonajeMarvel\PersonajeMarvel\bin\Debug\netstandard2.0\PersonajeMarvel.dll
+C:\Users\CDS2UNIVO18\source\repos\PersonajeMarvel\PersonajeMarvel\PersonajeMarvel\bin\Debug\netstandard2.0\PersonajeMarvel.pdb
+C:\Users\CDS2UNIVO18\source\repos\PersonajeMarvel\PersonajeMarvel\PersonajeMarvel\obj\Debug\netstandard2.0\PersonajeMarvel.csprojAssemblyReference.cache
+C:\Users\CDS2UNIVO18\source\repos\PersonajeMarvel\PersonajeMarvel\PersonajeMarvel\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\CDS2UNIVO18\source\repos\PersonajeMarvel\PersonajeMarvel\PersonajeMarvel\obj\Debug\netstandard2.0\View\EvaluarPersonaje.xaml.g.cs
+C:\Users\CDS2UNIVO18\source\repos\PersonajeMarvel\PersonajeMarvel\PersonajeMarvel\obj\Debug\netstandard2.0\View\PersonajeView.xaml.g.cs
+C:\Users\CDS2UNIVO18\source\repos\PersonajeMarvel\PersonajeMarvel\PersonajeMarvel\obj\Debug\netstandard2.0\PersonajeMarvel.csproj.CoreCompileInputs.cache
+C:\Users\CDS2UNIVO18\source\repos\PersonajeMarvel\PersonajeMarvel\PersonajeMarvel\obj\Debug\netstandard2.0\PersonajeMarvel.AssemblyInfoInputs.cache
+C:\Users\CDS2UNIVO18\source\repos\PersonajeMarvel\PersonajeMarvel\PersonajeMarvel\obj\Debug\netstandard2.0\PersonajeMarvel.AssemblyInfo.cs
+C:\Users\CDS2UNIVO18\source\repos\PersonajeMarvel\PersonajeMarvel\PersonajeMarvel\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\CDS2UNIVO18\source\repos\PersonajeMarvel\PersonajeMarvel\PersonajeMarvel\obj\Debug\netstandard2.0\PersonajeMarvel.dll
+C:\Users\CDS2UNIVO18\source\repos\PersonajeMarvel\PersonajeMarvel\PersonajeMarvel\obj\Debug\netstandard2.0\PersonajeMarvel.pdb
+C:\Users\CDS2UNIVO18\source\repos\PersonajeMarvel\PersonajeMarvel\PersonajeMarvel\obj\Debug\netstandard2.0\View\AgregarOtroPersonaje.xaml.g.cs
